@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "accountName": "GPS Tech Solution",
+      "totalUnit": 10,
+      "accountVIP": true
+    },
+    {
+      "id": 2,
+      "accountName": "Ambalatha Aman",
+      "totalUnit": 16,
+      "accountVIP": false
+    },
+    {
+      "id": 3,
+      "accountName": "HTH Transport",
+      "totalUnit": 51,
+      "accountVIP": true
+    }
+]
